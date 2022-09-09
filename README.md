@@ -1,9 +1,3 @@
-# Headstarter-Company-Case
+# Video Presentation
 
-## Install Node Packages
-
-```bash
-npm install --legacy-peer-deps
-```
-
-
+https://youtu.be/IysremtBMNo
