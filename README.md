@@ -16,7 +16,7 @@ A web application that allows teams to schedule and have online video meetings.
 
 ![](images/team.PNG)
 
-*All the data is retrieved from Firebase* 
+*All data is retrieved from Firebase* 
 
 ### Calendar
 
